@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="retype">Re-Type Password</string>
+    <string name="email">Email</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="TODO">TODO</string>
+    <string name="login">Login</string>
+    <string name="SignIn">SignIn</string>
+    <string name="SignOut">SignOut</string>
+    <string name="idea">Idea</string>
+    <string name="add">Add</string>
+    <string name="links">Links</string>
+    <string name="dashA">Check you bank activities</string>
+    <string name="dashB">Check you bank activities</string>
+    <string name="dashC">Check you bank activities</string>
+    <string name="dashD">Check you bank activities</string>
+    <string name="banking">Banking</string>g>
+    <string name="todo">TODO</string>
+    <string name="title_activity_scan">Scan</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="x">X</string>
+
+</resources>
